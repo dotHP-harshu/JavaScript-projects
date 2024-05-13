@@ -1,4 +1,4 @@
-// Get input field and to-do list container elements
+parse(localStorage.getItem('items');// Get input field and to-do list container elements
 let item = document.getElementById("item");
 let toDoBox = document.getElementById("to-do-box");
 
